@@ -1,0 +1,6 @@
+{
+    "uuid": "collapse-window@yourdomain.com",
+    "name": "Collapse Window",
+    "description": "Allow windows to collapse into their own title bar",
+    "shell-version": ["40", "41", "42", "43", "44"]  // Add all GNOME Shell versions you want to support
+}
